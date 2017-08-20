@@ -1,11 +1,11 @@
 # question_classifier
-##This module classifies different What, When, Who and Affirmative (Yes-No) questions. 
+## This module classifies different What, When, Who and Affirmative (Yes-No) questions. 
 
 # INSTALLATION
-##pip install -r requirements.txt
+## pip install -r requirements.txt
 
 # Classify Questions
-##python classify.py
+## python classify.py
 
 Type exit() to exit
 Enter question:
