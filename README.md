@@ -1,4 +1,4 @@
-# question_classifier
+# Question_classifier
 This module classifies different What, When, Who and Affirmative (Yes-No) questions. 
 
 # INSTALLATION
